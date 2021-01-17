@@ -204,15 +204,11 @@ Berisi API tentang Data Indonesia.
 | Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
 | ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
 
+## Sumber
 
-## Kontak
+Sumber daftar API LOKAL Indonesia ini adalah dari [Fariz Ramadhan](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/)
 
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
-
-Hatur Nuhun. :)
-
-## :fire: TERIMAKASIH :fire:
-Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
+Terima Kasih Mas Fariz dan rekan-rekan yang ikut berkontribusi.
 
 # Lisensi
 
